@@ -1,0 +1,227 @@
+﻿1
+00:00:00,000 --> 00:00:01,880
+Compound interest is more common
+
+2
+00:00:01,880 --> 00:00:04,010
+than simple interest in banking.
+
+3
+00:00:04,010 --> 00:00:06,810
+This video will cover compound interest.
+
+4
+00:00:06,810 --> 00:00:09,750
+Many of the terms are the same between simple interest
+
+5
+00:00:09,750 --> 00:00:11,790
+and compound interest.
+
+6
+00:00:11,790 --> 00:00:14,470
+The main difference will be in the formulas.
+
+7
+00:00:14,470 --> 00:00:17,300
+We will cover the compound interest formula.
+
+8
+00:00:17,300 --> 00:00:19,820
+Then, we will do some examples.
+
+9
+00:00:19,820 --> 00:00:22,600
+I will include calculator steps too.
+
+10
+00:00:22,600 --> 00:00:25,430
+Let's start with the compound interest formula.
+
+11
+00:00:25,430 --> 00:00:26,990
+With compound interest,
+
+12
+00:00:26,990 --> 00:00:30,620
+the interest is added to the principal at regular intervals.
+
+13
+00:00:30,620 --> 00:00:34,580
+We calculate the interest with the updated principal each time.
+
+14
+00:00:34,580 --> 00:00:37,050
+The time between adding interest to the principal
+
+15
+00:00:37,050 --> 00:00:39,470
+is called a compounding period.
+
+16
+00:00:39,470 --> 00:00:41,970
+Here is the compound interest formula.
+
+17
+00:00:41,970 --> 00:00:45,800
+The variables are very similar to the simple interest formula.
+
+18
+00:00:45,800 --> 00:00:49,260
+The new variable is the compounding periods per year.
+
+19
+00:00:49,260 --> 00:00:53,240
+For most problems, there is monthly or quarterly compounding.
+
+20
+00:00:53,240 --> 00:00:56,320
+Monthly compounding means n = 12.
+
+21
+00:00:56,320 --> 00:00:59,430
+Quarterly compounding means n = 4.
+
+22
+00:00:59,430 --> 00:01:01,940
+There is an exponent in this problem.
+
+23
+00:01:01,940 --> 00:01:05,270
+You will need to use a calculator to do the exponent.
+
+24
+00:01:05,270 --> 00:01:07,950
+These problems will seem hard at first.
+
+25
+00:01:07,950 --> 00:01:11,930
+Go one step at a time and they will be easier than they look.
+
+26
+00:01:11,930 --> 00:01:13,750
+Let's do two examples.
+
+27
+00:01:13,750 --> 00:01:15,390
+For this first example:
+
+28
+00:01:15,390 --> 00:01:18,300
+The present value is $5,000.
+
+29
+00:01:18,300 --> 00:01:23,010
+The annual interest rate is 0.038 as a decimal.
+
+30
+00:01:23,010 --> 00:01:24,720
+Time is 5 years.
+
+31
+00:01:24,720 --> 00:01:27,800
+Monthly compounding means n =12.
+
+32
+00:01:27,800 --> 00:01:31,110
+Start by substituting the values into the formula.
+
+33
+00:01:31,110 --> 00:01:33,840
+Don't try to simplify anything right now.
+
+34
+00:01:33,840 --> 00:01:36,100
+5 times 12 is 60.
+
+35
+00:01:36,100 --> 00:01:41,900
+Inside the parentheses simplifies to 1.003167.
+
+36
+00:01:41,900 --> 00:01:44,200
+I am writing six decimal places,
+
+37
+00:01:44,200 --> 00:01:46,880
+but keeping the work in the calculator.
+
+38
+00:01:46,880 --> 00:01:48,930
+You'll see the steps in a moment.
+
+39
+00:01:48,930 --> 00:01:54,920
+Next, raise 1.003167 to the 60th power.
+
+40
+00:01:54,920 --> 00:01:59,010
+The exponent button is the symbol that looks like an up arrow.
+
+41
+00:01:59,010 --> 00:02:04,560
+Finally, multiply 1.20887 by 5000.
+
+42
+00:02:04,560 --> 00:02:09,460
+The future value is $6,044.43.
+
+43
+00:02:09,460 --> 00:02:39,460
+Here are the calculator steps on the Google Calculator app. The exponent button is to the left of 1 and 4.
+
+44
+00:02:39,460 --> 00:02:42,200
+This last problem is just like the first.
+
+45
+00:02:42,200 --> 00:02:45,900
+The present value is $18,500.
+
+46
+00:02:45,900 --> 00:02:49,550
+The annual interest rate is 6.25%
+
+47
+00:02:49,550 --> 00:02:51,500
+Time is 17 years.
+
+48
+00:02:51,500 --> 00:02:53,250
+Compounding is quarterly.
+
+49
+00:02:53,250 --> 00:02:55,530
+That means n = 4.
+
+50
+00:02:55,530 --> 00:02:58,790
+Start by substituting the numbers into the formula.
+
+51
+00:02:58,790 --> 00:03:02,310
+Multiply 4 times 17 to get 68.
+
+52
+00:03:02,310 --> 00:03:08,010
+Inside the parentheses simplifies to 1.015625.
+
+53
+00:03:08,010 --> 00:03:13,240
+Raise 1.015625 to the 68th power.
+
+54
+00:03:13,240 --> 00:03:16,360
+to get 2.86992.
+
+55
+00:03:16,360 --> 00:03:22,470
+Lastly, multiply 18500 and 2.86992.
+
+56
+00:03:22,470 --> 00:03:27,780
+The future value is $53,093.55.
+
+57
+00:03:27,780 --> 00:03:53,780
+Here are the calculator steps for this problem.

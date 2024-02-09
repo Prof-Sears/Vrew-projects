@@ -1,0 +1,291 @@
+﻿1
+00:00:00,000 --> 00:00:03,290
+This is our second video about compound interest.
+
+2
+00:00:03,290 --> 00:00:06,760
+We will work the problems from the last video backwards.
+
+3
+00:00:06,760 --> 00:00:08,440
+This video will cover:
+
+4
+00:00:08,440 --> 00:00:11,710
+The present value formula for compound interest.
+
+5
+00:00:11,710 --> 00:00:14,020
+Then we'll do three problems.
+
+6
+00:00:14,020 --> 00:00:16,650
+I'll show the solutions on a calculator.
+
+7
+00:00:16,650 --> 00:00:18,820
+First, a few reminders.
+
+8
+00:00:18,820 --> 00:00:23,140
+The present value of an account or investment is the value now.
+
+9
+00:00:23,140 --> 00:00:25,540
+The future value of an account or investment
+
+10
+00:00:25,540 --> 00:00:28,700
+is the value in a given time in the future.
+
+11
+00:00:28,700 --> 00:00:31,710
+The reason we want to calculate present value is to know
+
+12
+00:00:31,710 --> 00:00:35,240
+how much money we need now to reach a future goal.
+
+13
+00:00:35,240 --> 00:00:38,250
+We can use the rest of our money for other things.
+
+14
+00:00:38,250 --> 00:00:41,860
+For example, if you need $20,000 to buy a car
+
+15
+00:00:41,860 --> 00:00:46,060
+five years from now, how much do we need to invest today?
+
+16
+00:00:46,060 --> 00:00:48,710
+First, we'll look at the present value formula
+
+17
+00:00:48,710 --> 00:00:51,000
+using compound interest.
+
+18
+00:00:51,000 --> 00:00:52,330
+Here is the formula.
+
+19
+00:00:52,330 --> 00:00:55,190
+The bottom of the fraction is exactly the calculation
+
+20
+00:00:55,190 --> 00:00:57,460
+we did with future value.
+
+21
+00:00:57,460 --> 00:00:59,870
+The difference is that we're dividing by the number
+
+22
+00:00:59,870 --> 00:01:01,970
+instead of multiplying.
+
+23
+00:01:01,970 --> 00:01:05,110
+The best way to do the division in a calculator
+
+24
+00:01:05,110 --> 00:01:08,230
+is to use the calculator's memory function.
+
+25
+00:01:08,230 --> 00:01:10,380
+Let's go through some examples.
+
+26
+00:01:10,380 --> 00:01:11,900
+In the first example:
+
+27
+00:01:11,900 --> 00:01:15,310
+Future value is $250,000.
+
+28
+00:01:15,310 --> 00:01:20,360
+Annual interest rate is 0.0345 as a decimal.
+
+29
+00:01:20,360 --> 00:01:22,530
+Time is 25 years.
+
+30
+00:01:22,530 --> 00:01:25,570
+Annual compounding means n equals 1.
+
+31
+00:01:25,570 --> 00:01:28,960
+First, substitute the values into the equation.
+
+32
+00:01:28,960 --> 00:01:31,320
+Don't try to simplify at this step.
+
+33
+00:01:31,320 --> 00:01:36,110
+Multiply 1 times 25 to get an exponent of 25.
+
+34
+00:01:36,110 --> 00:01:41,280
+The part in the parentheses simplifies to 1.0345.
+
+35
+00:01:41,280 --> 00:01:43,000
+After taking the exponent,
+
+36
+00:01:43,000 --> 00:01:47,630
+the bottom of the fraction is 2.334868.
+
+37
+00:01:47,630 --> 00:01:49,980
+Finally, after doing the division,
+
+38
+00:01:49,980 --> 00:01:55,840
+we get $107,072.43 for the present value.
+
+39
+00:01:55,840 --> 00:02:00,230
+This means we more than double our money over 25 years.
+
+40
+00:02:00,230 --> 00:02:16,230
+Here is the calculation on the Google Calculator app.
+
+41
+00:02:16,230 --> 00:02:26,230
+For this step, use the history to copy and paste the old number.
+
+42
+00:02:26,230 --> 00:02:27,510
+For this problem:
+
+43
+00:02:27,510 --> 00:02:30,910
+Future value is $150,000.
+
+44
+00:02:30,910 --> 00:02:35,820
+Annual interest rate is 0.0481 as a decimal.
+
+45
+00:02:35,820 --> 00:02:37,990
+Time is 35 years.
+
+46
+00:02:37,990 --> 00:02:41,100
+Quarterly compounding means n equals 4.
+
+47
+00:02:41,100 --> 00:02:44,490
+First, substitute the values into the equation.
+
+48
+00:02:44,490 --> 00:02:49,500
+Multiply 4 times 35 to get an exponent of 140.
+
+49
+00:02:49,500 --> 00:02:55,350
+The part in the parentheses simplifies to 1.012025.
+
+50
+00:02:55,350 --> 00:02:56,760
+Doing the exponent,
+
+51
+00:02:56,760 --> 00:03:02,170
+the bottom of the fraction becomes 5.330571.
+
+52
+00:03:02,170 --> 00:03:09,210
+Perform the division to get $28,139.58 for the present value.
+
+53
+00:03:09,210 --> 00:03:12,930
+The future value is more than five times the starting money.
+
+54
+00:03:12,930 --> 00:03:37,930
+The calculator steps are the same as the last problem.
+
+55
+00:03:37,930 --> 00:03:39,880
+This is the last problem:
+
+56
+00:03:39,880 --> 00:03:43,280
+Future value is $150,000.
+
+57
+00:03:43,280 --> 00:03:48,190
+Annual interest rate is 0.0481 as a decimal.
+
+58
+00:03:48,190 --> 00:03:50,360
+Time is 35 years.
+
+59
+00:03:50,360 --> 00:03:53,440
+Monthly compounding means n equals 12.
+
+60
+00:03:53,440 --> 00:03:56,410
+This is almost the same as the last problem.
+
+61
+00:03:56,410 --> 00:03:59,270
+The number of compounding periods is different.
+
+62
+00:03:59,270 --> 00:04:02,660
+First, substitute the values into the equation.
+
+63
+00:04:02,660 --> 00:04:07,770
+Multiply 12 times 35 to get an exponent of 420.
+
+64
+00:04:07,770 --> 00:04:13,190
+The parentheses simplifies to 1.004008.
+
+65
+00:04:13,190 --> 00:04:14,600
+Doing the exponent,
+
+66
+00:04:14,600 --> 00:04:19,800
+the bottom of the fraction becomes 5.366280.
+
+67
+00:04:19,800 --> 00:04:27,040
+Perform the division to get $27,952.33 for the present value.
+
+68
+00:04:27,040 --> 00:04:52,040
+More after this.
+
+69
+00:04:52,040 --> 00:04:53,620
+The present value is lower
+
+70
+00:04:53,620 --> 00:04:56,510
+in this problem than in the last problem.
+
+71
+00:04:56,510 --> 00:04:59,150
+That is because with more compounding periods,
+
+72
+00:04:59,150 --> 00:05:01,670
+the money grows a little faster.
+
+73
+00:05:01,670 --> 00:05:05,650
+So, you can start with less and end with the same amount.
