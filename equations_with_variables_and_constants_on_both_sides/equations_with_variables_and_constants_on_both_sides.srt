@@ -1,0 +1,155 @@
+﻿1
+00:00:00,000 --> 00:00:05,530
+Solving equations with variable on both sides is an important skill in algebra.
+
+2
+00:00:05,530 --> 00:00:10,080
+Many problems later in the course have this as a part of their solution.
+
+3
+00:00:10,080 --> 00:00:15,290
+This video will cover the genera strategy for solving these types of equations.
+
+4
+00:00:15,290 --> 00:00:18,190
+Then, we will go through two examples.
+
+5
+00:00:18,190 --> 00:00:20,200
+Here is the general procedure.
+
+6
+00:00:20,200 --> 00:00:23,560
+Pick one side of the equation to be for the constants.
+
+7
+00:00:23,560 --> 00:00:27,810
+I like to pick the side with the largest coefficient of the variable.
+
+8
+00:00:27,810 --> 00:00:33,420
+Collect the variable terms on one side by adding or subtracting to both sides.
+
+9
+00:00:33,420 --> 00:00:37,110
+Afterward, collect the constant terms on the other side.
+
+10
+00:00:37,110 --> 00:00:41,040
+Finally, multiply or divide both sides by the same number
+
+11
+00:00:41,040 --> 00:00:44,210
+so that the coefficient of the variable is 1.
+
+12
+00:00:44,210 --> 00:00:46,280
+Don't forget to check your answer.
+
+13
+00:00:46,280 --> 00:00:48,100
+Let's do two examples.
+
+14
+00:00:48,100 --> 00:00:50,880
+Both are very common equations to solve.
+
+15
+00:00:50,880 --> 00:00:52,330
+Solve the equation.
+
+16
+00:00:52,330 --> 00:00:56,190
+12 q - 5 = 9q - 20.
+
+17
+00:00:56,190 --> 00:00:58,490
+I'm going to rewrite the equation.
+
+18
+00:00:58,490 --> 00:01:03,660
+We'll collect the variable terms on the left because 12 is larger than 9.
+
+19
+00:01:03,660 --> 00:01:06,540
+Subtract 9q from both sides.
+
+20
+00:01:06,540 --> 00:01:10,800
+The new equation is 3q - 5 = -20.
+
+21
+00:01:10,800 --> 00:01:15,410
+Next, add 5 to both sides to get the constants on the right.
+
+22
+00:01:15,410 --> 00:01:19,580
+Now, the equation is 3q = - 15.
+
+23
+00:01:19,580 --> 00:01:22,710
+Finally, divide both sides by 3.
+
+24
+00:01:22,710 --> 00:01:25,690
+The solution is q = -5.
+
+25
+00:01:25,690 --> 00:01:27,340
+Here is the work to check.
+
+26
+00:01:27,340 --> 00:01:30,540
+Be careful with the negative numbers in the arithmetic.
+
+27
+00:01:35,540 --> 00:01:38,360
+This second equation is just like the first.
+
+28
+00:01:38,360 --> 00:01:42,820
+8c + 7 = -3c - 37.
+
+29
+00:01:42,820 --> 00:01:45,020
+I'm going to copy the equation.
+
+30
+00:01:45,020 --> 00:01:50,310
+We'll collect the variable terms on the left because 8 is bigger than -3.
+
+31
+00:01:50,310 --> 00:01:53,380
+Start by adding 3c to both sides.
+
+32
+00:01:53,380 --> 00:01:56,340
+We're adding to cancel out the -3c.
+
+33
+00:01:56,340 --> 00:02:02,050
+The new version of the equation is 11c + 7 = -37.
+
+34
+00:02:02,050 --> 00:02:04,670
+Subtract 7 from both sides.
+
+35
+00:02:04,670 --> 00:02:09,760
+11c = -44 is the next version of the equation.
+
+36
+00:02:09,760 --> 00:02:12,250
+Divide both sides by 11.
+
+37
+00:02:12,250 --> 00:02:15,190
+The solution is c = -4.
+
+38
+00:02:15,190 --> 00:02:17,560
+Here is the work to check the equation.
+
+39
+00:02:17,560 --> 00:02:20,860
+There are lots of negative numbers, so be careful.

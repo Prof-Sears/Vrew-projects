@@ -1,0 +1,43 @@
+There are several layers to the order of operations.
+Now that we’ve looked at some order of operations problems, let’s try some that are a bit more involved.
+This video will do a quick review of the order of operations.
+Then, we’ll work two examples.
+We covered the order of operations in greater detail.
+For this video, we’ll do a short review.
+When you simplify an expression, work in the following steps.
+Parentheses first, working inside to outside.
+Second, do all exponents.
+The third level is to do all multiplications and divisions.
+Do them at the same time, working left to right.
+Finally, perform all additions and subtractions.
+Again, do them at the same time, working left to right.
+Let’s work through two examples.
+The first example is 3 times parentheses 1 plus 9 times 6 then minus 4 squared.
+First we work inside the parentheses.
+The first operation to do inside the parentheses is 9 times 6, which is 54.
+The second operation inside the parentheses is 1 plus 54.
+The parentheses simplifies to 55.
+We’re done with the parentheses.
+Next up is exponents.
+4 squared is 16
+We’re done with exponents.
+The next operation is multiplication.
+3 times 55 is 165.
+Finally, we subtract.
+165 minus 16 is 149.
+The final answer is 149.
+The next example has brackets and parentheses.
+Work inside to outside.
+We want to simplify 2 bracket 1 plus 3 times parentheses 10 minus 2.
+Subtract inside the parentheses.
+10 minus 2 is 8
+Inside the brackets, do the multiplication first.
+3 times 8 is 24.
+To finish inside the brackets, add 1 and 24.
+The brackets simplify to be 25.
+We’ve done all the grouping symbols.
+Also, there are no exponents in the problem.
+There is one multiplication left.
+2 times 25 is 50.
+There are no additions or subtractions left either.
+The final answer is 50.
